@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning and contributing to LLM and RAG-based projects
 - 📫 How to reach me: @rchand@ucsd.edu
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ritvikchand05?theme=catppuccinMocha&font=Tiro%20Telugu&ext=heatmap)
