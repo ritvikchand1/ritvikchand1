@@ -1,6 +1,6 @@
 ## Hi, I'm Ritvik👋
 
-<h3 align="center">Data Science Major at UCSD with experience in agile-based web development and deep learning projects</h3>
+<h3 align="center">UCSD student with experience in agile-based web development and deep learning projects</h3>
 
 - 🔭 I’m currently working on a trip itinerary optimizer app using the Next.js, TypeScript, Firebase
 - 🌱 I’m currently learning and contributing to LLM and RAG-based projects
